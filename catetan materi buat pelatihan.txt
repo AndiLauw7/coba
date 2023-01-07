@@ -1,0 +1,14 @@
+pengenlanan javascript
+
+membuat hello word 
+pengenalan tipe data
+number 
+boolean
+string
+
+variabel
+adalah tempat untuk menyimpan/menampung data
+
+let dan const
+
+operator matematika
